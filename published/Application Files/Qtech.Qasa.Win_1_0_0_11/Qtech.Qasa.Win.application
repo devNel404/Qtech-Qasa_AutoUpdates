@@ -14,7 +14,7 @@
     <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\Qtech.Qasa.Win_1_0_0_11\Qtech.Qasa.Win.exe.manifest" size="58728">
+    <dependentAssembly dependencyType="install" codebase="Qtech.Qasa.Win.exe.manifest" size="58728">
       <assemblyIdentity name="Qtech.Qasa.Win.exe" version="1.0.0.11" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
