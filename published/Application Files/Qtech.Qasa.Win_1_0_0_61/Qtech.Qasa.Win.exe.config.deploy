@@ -44,8 +44,8 @@
     <add name="Qtech.Qasa.Win.Properties.Settings.qiQtech_dbConnectionString" connectionString="Data Source=192.168.1.200,1001;Initial Catalog=qasaQtech_db;user id=Qtech; password=1234" providerName="System.Data.SqlClient" />
     <add name="Qtech.Qasa.Win.Properties.Settings.qiQtechLog_dbConnectionString" connectionString="Data Source=192.168.1.200,1001;Initial Catalog=qasaQtechLog_db;user id=Qtech; password=1234" providerName="System.Data.SqlClient" />
     
-    <add name="Banner.Systems.Connection" connectionString="Data Source=192.168.1.51,1114;Initial Catalog=syBanner_db;user id=Qtech; password=1234;" providerName="System.Data.SqlClient" />
-    <add name="Banner.Systems.ConnectionLog" connectionString="Data Source=192.168.1.51,1114;Initial Catalog=syBannerLog_db;user id=Qtech; password=1234;" providerName="System.Data.SqlClient" />
+    <add name="Banner.Systems.Connection" connectionString="Data Source=192.168.1.51,1114;Initial Catalog=syBanner_db;user id=sa; password=1234;" providerName="System.Data.SqlClient" />
+    <add name="Banner.Systems.ConnectionLog" connectionString="Data Source=192.168.1.51,1114;Initial Catalog=syBannerLog_db;user id=sa; password=1234;" providerName="System.Data.SqlClient" />
   </connectionStrings>
   <appSettings>
     <add key="Qtech.Qasa.Connection" value="Qtech.Qasa.Win.Properties.Settings.qiQtech_dbConnectionString" />
