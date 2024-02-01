@@ -14,3 +14,5 @@ Update log
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
+
+Last Update: 02/01/2014
