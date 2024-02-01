@@ -2,7 +2,7 @@ What's New?
 	Software Update
 	• Show the new updates form.
 	• Able to visit official website instantly.
-
+	• Prerequisites reports intaller embedded.
 Update log
 	Security
 	• Bug Fixed retaining last login on personnel credentials.
