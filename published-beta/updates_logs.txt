@@ -1,0 +1,16 @@
+What's New?
+
+	Software Update
+	• Show the new updates  form.
+	• Able to official view website instantly.
+
+Update log
+
+	Security
+	• Bug Fixed retaining last login on personnel credentials.
+	Report
+	• Official Report and Sales Invoice Report updated.
+
+Soon !!!
+	Check for updates.
+	• Able to check online updates.
