@@ -3,14 +3,18 @@ What's New?
 	• Show the new updates form.
 	• Able to visit official website instantly.
 	• Prerequisites reports intaller embedded.
+	• Sales Quotation.
+	• Able to send to customer quotation email
 Update log
 	Security
 	• Bug Fixed retaining last login on personnel credentials.
 	Report
 	• Official Receipt and Sales Invoice Report updated.
 	• Customer P.O total summary.
+	• Adding customer email in customer module.
+	• Adding email and app password in personnel module.
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
 
-Last Update: 02/01/2024
+Last Update: 02/06/2024
