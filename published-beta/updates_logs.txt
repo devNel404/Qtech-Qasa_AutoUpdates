@@ -11,10 +11,12 @@ Update log
 	Report
 	• Official Receipt and Sales Invoice Report updated.
 	• Customer P.O total summary.
+	Entry Form
 	• Adding customer email in customer module.
 	• Adding email and app password in personnel module.
+	• Able to select different address in Delivery Receipts
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
 
-Last Update: 02/06/2024
+Last Update: 02/07/2024
