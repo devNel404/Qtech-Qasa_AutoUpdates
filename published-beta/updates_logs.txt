@@ -15,6 +15,8 @@ Update log
 	• Adding customer email in customer module.
 	• Adding email and app password in personnel module.
 	• Able to select different address in Delivery Receipts
+	• Able to attach files in Sales Quotation
+	• Able to view mail format
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
