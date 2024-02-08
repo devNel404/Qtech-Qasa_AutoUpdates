@@ -17,8 +17,11 @@ Update log
 	• Able to select different address in Delivery Receipts
 	• Able to attach files in Sales Quotation
 	• Able to view mail format
+--------------------------------------------------------------------
+	• Sales Invoice and Delivery Receipts Report Updated
+	• Fixed total amount When browsing A.R total amount in Collection Receipts
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
 
-Last Update: 02/07/2024
+Last Update: 02/08/2024
