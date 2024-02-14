@@ -20,6 +20,9 @@ Update log
 --------------------------------------------------------------------
 	• Sales Invoice and Delivery Receipts Report Updated
 	• Fixed total amount When browsing A.R total amount in Collection Receipts
+--------------------------------------------------------------------
+	Purchasing Module
+	• Enhancement of purchase order and report. (Reference from Sales invoice)
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
