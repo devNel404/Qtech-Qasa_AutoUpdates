@@ -1,27 +1,11 @@
 What's New?
 	Software Update
-	• Show the new updates form.
-	• Able to visit official website instantly.
-	• Prerequisites reports intaller embedded.
-	• Sales Quotation.
-	• Able to send to customer quotation email
+	-
 Update log
 	Security
-	• Bug Fixed retaining last login on personnel credentials.
-	Report
-	• Official Receipt and Sales Invoice Report updated.
-	• Customer P.O total summary.
-	Entry Form
-	• Adding customer email in customer module.
-	• Adding email and app password in personnel module.
-	• Able to select different address in Delivery Receipts
-	• Able to attach files in Sales Quotation
-	• Able to view mail format
---------------------------------------------------------------------
-	• Sales Invoice and Delivery Receipts Report Updated
-	• Fixed total amount When browsing A.R total amount in Collection Receipts
---------------------------------------------------------------------
-	Purchasing Module
+	-
+	Modules
+	-Purchasing Module
 	• Enhancement of purchase order and report. (Reference from Sales invoice)
 	• Temporary hide the Issuance History and Goods Intransit in P.O. (For better POV for low resolutions.)
 Soon !!!
