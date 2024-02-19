@@ -5,7 +5,7 @@ Update log
 	Security
 	-
 	Sir Roy Project
-	-Last merged 02/15/2024
+	-Last merged 02/19/2024
 	Modules
 	-Purchasing Module
 	• Enhancement of purchase order and report. (Reference from Sales invoice)
