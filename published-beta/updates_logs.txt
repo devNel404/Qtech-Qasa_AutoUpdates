@@ -2,16 +2,11 @@ What's New?
 	Software Update
 	-
 Update log
-	Security
-	-
 	Sir Roy Project
-	-Last merged 02/19/2024
-	Modules
-	-Purchasing Module
-	• Enhancement of purchase order and report. (Reference from Sales invoice)
-	• Temporary hide the Issuance History and Goods Intransit in P.O. (For better POV for low resolutions.)
+	-Last merged 02/20/2024
+	
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
 
-Last Update: 02/14/2024
+Last Update: 02/20/2024
