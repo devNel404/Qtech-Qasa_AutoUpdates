@@ -4,6 +4,10 @@ What's New?
 Update log
 	Sir Roy Project
 	-Last merged 02/20/2024
+	Personnel
+	-Able to add e-signature
+	Exchange Rate
+	-Add column for amount
 	
 Soon !!!
 	Check for updates.
