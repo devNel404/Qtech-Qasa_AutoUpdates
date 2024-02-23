@@ -8,6 +8,9 @@ Update log
 	-Able to send email directly with attachment
 	Personnel
 	-Create App Password directly
+	Sales Quotation
+	-Subject - editable
+	-From - current user
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
