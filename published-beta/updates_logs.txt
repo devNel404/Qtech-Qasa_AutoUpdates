@@ -1,16 +1,14 @@
 What's New?
-	Software Update
-	-
+	Maintenance Module 
+	-Status
 Update log
-	Sir Roy Project
-	-Last merged 02/21/2024
-	Personnel
-	-Able to add e-signature
-	Exchange Rate
-	-Add column for amount
+	Sir Roy Development
+	-20240222_1556
+	Sales Quotation
+	-Able to send email directly with attachment
 	
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
 
-Last Update: 02/20/2024
+Last Update: 02/23/2024
