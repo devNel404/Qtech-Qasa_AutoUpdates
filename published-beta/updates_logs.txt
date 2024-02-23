@@ -6,7 +6,8 @@ Update log
 	-20240222_1556
 	Sales Quotation
 	-Able to send email directly with attachment
-	
+	Personnel
+	-Create App Password directly
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
