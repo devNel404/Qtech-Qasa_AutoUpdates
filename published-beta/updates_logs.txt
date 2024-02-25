@@ -11,6 +11,12 @@ Update log
 	Sales Quotation
 	-Subject - editable
 	-From - current user
+	Product
+	-Filtering items, (the new item will calculate the date 7 days ago.)
+	-Reconstruct data table design (remove other columns)
+	-Validations
+	Master Form
+	-Dynamic thumbnail image
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
