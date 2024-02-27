@@ -17,6 +17,10 @@ Update log
 	-Validations
 	Master Form
 	-Dynamic thumbnail image
+	SERVER
+	-Deploy production database on server pc
+	Billing Statement
+	-Ongoing
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
