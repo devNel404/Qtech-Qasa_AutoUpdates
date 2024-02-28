@@ -20,9 +20,9 @@ Update log
 	SERVER
 	-Deploy production database on server pc
 	Billing Statement
-	-Ongoing
+	-Ongoing/Enhancement
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
-
+	• Beta version
 Last Update: 02/23/2024
