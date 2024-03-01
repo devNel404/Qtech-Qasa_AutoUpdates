@@ -3,7 +3,7 @@ What's New?
 	-Status
 Update log
 	Sir Roy Development
-	-20240222_1556
+	-March 01 2024
 	Sales Quotation
 	-Able to send email directly with attachment
 	Personnel
@@ -21,6 +21,7 @@ Update log
 	-Deploy production database on server pc
 	Billing Statement
 	-Ongoing/Enhancement
+
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
