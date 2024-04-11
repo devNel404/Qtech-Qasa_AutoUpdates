@@ -1,29 +1,13 @@
 What's New?
 	Maintenance Module 
-	-Status
+	-Fixed Asset
+
 Update log
-	Sir Roy Development
-	-March 04 2024
-	Sales Quotation
-	-Able to send email directly with attachment
-	Personnel
-	-Create App Password directly
-	Sales Quotation
-	-Subject - editable
-	-From - current user
-	Product
-	-Filtering items, (the new item will calculate the date 7 days ago.)
-	-Reconstruct data table design (remove other columns)
-	-Validations
-	Master Form
-	-Dynamic thumbnail image
-	SERVER
-	-Deploy production database on server pc
-	Billing Statement
-	-Ongoing/Enhancement
+	-Enhancement of Purchasing and Sales Module
 
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
 	• Beta version
-Last Update: 02/23/2024
+
+Last Update: 04/11/2024
