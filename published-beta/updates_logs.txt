@@ -1,13 +1,15 @@
 What's New?
 	Maintenance Module 
 	-Fixed Asset
+	-Notification (ongoing)
 
 Update log
 	-Enhancement of Purchasing and Sales Module
+	-Enhancement of Supplier and Customer details
 
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
 	• Beta version
 
-Last Update: 04/11/2024
+Last Update: 04/24/2024
