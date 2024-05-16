@@ -4,12 +4,13 @@ What's New?
 	-Notification (ongoing)
 
 Update log
-	-Enhancement of Purchasing and Sales Module
-	-Enhancement of Supplier and Customer details
-
+	-Transactions in purchasing module will display based on the user encoder.
+	-Enhancement of Products/Inventory
+	-Merged accounting modules (05/16/2024)
+	
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
 	• Beta version
 
-Last Update: 04/24/2024
+Last Update: 05/17/2024 1:25:00AM
