@@ -1,16 +1,14 @@
 What's New?
 	Maintenance Module 
-	-Fixed Asset
 	-Notification (ongoing)
 
 Update log
-	-Transactions in purchasing module will display based on the user encoder.
-	-Enhancement of Products/Inventory
-	-Merged accounting modules (05/16/2024)
+	-Enhancement of Sales Modules
+	-Merged accounting modules (June 13, 2024)
 	
 Soon !!!
 	Check for updates.
 	• Able to check online updates.
 	• Beta version
 
-Last Update: 05/17/2024 1:25:00AM
+Last commit: June 13, 2024 7:55PM
