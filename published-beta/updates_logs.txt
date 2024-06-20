@@ -11,4 +11,4 @@ Soon !!!
 	• Able to check online updates.
 	• Beta version
 
-Last commit: June 13, 2024 7:55PM
+Last commit: June 20, 2024 4:15PM
