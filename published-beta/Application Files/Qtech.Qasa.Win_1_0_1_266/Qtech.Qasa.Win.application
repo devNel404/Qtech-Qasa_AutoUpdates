@@ -14,14 +14,14 @@
     <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\Qtech.Qasa.Win_1_0_1_266\Qtech.Qasa.Win.exe.manifest" size="73020">
+    <dependentAssembly dependencyType="install" codebase="Application Files\Qtech.Qasa.Win_1_0_1_266\Qtech.Qasa.Win.exe.manifest" size="73021">
       <assemblyIdentity name="Qtech.Qasa.Win.exe" version="1.0.1.266" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FI2IUa1gj4iiGHU5bXbyhsTvarTg9xN4SyUsqiH6cAY=</dsig:DigestValue>
+        <dsig:DigestValue>xDTCMwGq7wioTiUdRdQpRGdua2gy4E+9xgTMxQHGkYQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
