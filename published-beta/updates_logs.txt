@@ -3,12 +3,13 @@ What's New?
 	-Notification (ongoing)
 
 Update log
-	-Enhancement of Sales Modules
-	-Merged accounting modules (June 13, 2024)
+	-Optimization of Purchasing Module
+	-Filtering each data
 	
 Soon !!!
 	Check for updates.
+	• Preferences System Configuration
 	• Able to check online updates.
 	• Beta version
 
-Last commit: June 23, 2024 11:00PM
+Last commit: Sept. 10, 2024 03:30PM
