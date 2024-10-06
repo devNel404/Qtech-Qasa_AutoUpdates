@@ -5,6 +5,7 @@ What's New?
 Update log
 	-Optimization of Purchasing Module
 	-Filtering each data
+	-Enhancement of User Interface (UI)
 	
 Soon !!!
 	Check for updates.
@@ -12,4 +13,4 @@ Soon !!!
 	• Able to check online updates.
 	• Beta version
 
-Last commit: Sept. 10, 2024 03:30PM
+Last commit: October 06, 2024 11:59PM
