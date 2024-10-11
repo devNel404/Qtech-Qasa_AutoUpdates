@@ -1,16 +1,22 @@
-What's New?
-	Maintenance Module 
-	-Notification (ongoing)
+What's New
 
-Update log
-	-Optimization of Purchasing Module
-	-Filtering each data
-	-Enhancement of User Interface (UI)
-	
-Soon !!!
-	Check for updates.
-	• Preferences System Configuration
-	• Able to check online updates.
-	• Beta version
+Maintenance Module
 
-Last commit: October 06, 2024 11:59PM
+  • Notification System: Currently in progress
+  • Dashboard System: Currently in progress
+
+Update Highlights
+
+  • Purchasing Module Optimization: Improved performance and efficiency.
+  • Accounting Entries: Database successfully restored for accurate entry tracking.
+  • Advanced Data Filtering: More granular control over data views.
+  • User Interface Enhancements: Streamlined and modernized for a better user experience.
+
+Coming Soon
+
+  • System Update Checker:
+    • Preferences and System Configuration.
+    • Ability to check for online updates.
+    • Upcoming Beta version release.
+
+Last updated: October 10, 2024, 11:11 PM
