@@ -1,22 +1,26 @@
-What's New
+<What's New/>?
 
-Maintenance Module
-
+Currently in progress:
   • Notification System: Currently in progress
+	- Able to redirect to specific module transaction
   • Dashboard System: Currently in progress
+  • Account Information
+  • Preferences and System Configuration
+  • System Demo: Currently in progress
+	- Able to access demo system at the same time.
+	- Qtech's Team will allow to access only this feature.
 
-Update Highlights
-
+Update Highlights:
   • Purchasing Module Optimization: Improved performance and efficiency.
   • Accounting Entries: Database successfully restored for accurate entry tracking.
   • Advanced Data Filtering: More granular control over data views.
   • User Interface Enhancements: Streamlined and modernized for a better user experience.
 
-Coming Soon
+Coming Soon:
 
   • System Update Checker:
-    • Preferences and System Configuration.
+    
     • Ability to check for online updates.
     • Upcoming Beta version release.
 
-Last updated: October 10, 2024, 11:11 PM
+Last updated: November 25, 2024, 08:00 PM
